@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FisherScript.cs">
+    <Files>
+      <File FileName="Assets/FisherScript.cs" Line="65" Column="148" />
+      <File FileName="Assets/SplashSoundScript.cs" Line="9" Column="22" />
+      <File FileName="Assets/MusicScript.cs" Line="22" Column="39" />
+      <File FileName="Assets/FishScript.cs" Line="219" Column="66" />
+      <File FileName="Assets/TitleFade.cs" Line="7" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
